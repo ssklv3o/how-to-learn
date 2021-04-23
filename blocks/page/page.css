@@ -1,0 +1,11 @@
+.page {
+    min-width: 1100px;
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 0;
+    font-family: "Inter", "Arial", sans-serif;
+}
+
+* {
+    outline: 1px solid red;
+}
