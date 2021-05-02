@@ -5,3 +5,8 @@
   line-height: 34px;
   font-weight: 400;
 }
+
+.two-columns__paragraph:last-child {
+  padding: 0;
+  margin: 0;
+}
