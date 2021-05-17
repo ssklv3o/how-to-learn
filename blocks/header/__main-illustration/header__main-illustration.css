@@ -1,8 +1,7 @@
 .header__main-illustration {
-  margin: 64px 0 0;
-  padding: 0;
   width: 765px;
   height: 608px;
-  align-self: flex-end;
-  z-index: 3;
+  padding: 0;
+  margin: 92px 0 0 10px;
+  z-index: 1;
 }
