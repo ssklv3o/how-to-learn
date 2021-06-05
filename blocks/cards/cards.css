@@ -1,10 +1,11 @@
 .cards {
   margin: 0;
-  padding: 60px 0 7px;
+  padding: 60px 0 0;
   list-style: none;
   display: grid;
   width: 920px;
   grid-template-columns: repeat(auto-fit, 240px);
   grid-column-gap: 100px;
   grid-row-gap: 60px;
+  box-sizing: border-box;
 }

@@ -1,0 +1,8 @@
+.feynman__wrapper {
+  margin: 68px 48px 347px 0;
+  padding: 0;
+  display: flex;
+  align-self: flex-end;
+  width: 857px;
+  justify-content: space-between;
+}
