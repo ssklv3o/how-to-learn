@@ -8,4 +8,5 @@
   grid-template-columns: repeat(auto-fit, 250px);
   row-gap: 60px;
   column-gap: 33px;
+  z-index: 3;
 }
